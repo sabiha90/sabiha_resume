@@ -6,6 +6,14 @@
     background-color: #e6e6e6;
     height:600px;
    }
+
+.page-title{
+	text-align: center;
+	font-family: 'Times New Roman';
+	font-weight: 'Bold';
+	font-size: 13px;
+}
+	
 .white-box { 
 	width: 700px; 
 	height: 400px; 
