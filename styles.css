@@ -467,7 +467,7 @@ input {
 .main-timeline-section .timeline-start,
 .main-timeline-section .timeline-end{
 	position: absolute;
-	background: #0EB57D;
+	background: #0074E1;
 	border-radius: 100px;
 	top: 50%;
 	transform: translateY(-50%);
