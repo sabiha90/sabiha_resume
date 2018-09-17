@@ -559,3 +559,9 @@ input {
   border-top-color:#ffffff;
 }
 
+tooltip_workexp
+{
+	position: absolute;
+	left: -1000px;
+	top: -1000px;
+}
