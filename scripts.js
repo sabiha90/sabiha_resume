@@ -12,4 +12,8 @@ $(".white-box").hover(function() {
 function abc(){
  var tooltip = $("#tooltip_workexp");
   tooltip.append( "<p>Test</p>" );
+  tooltip.css({
+    'left': '100px',
+    "top": "100px"
+});
 }
